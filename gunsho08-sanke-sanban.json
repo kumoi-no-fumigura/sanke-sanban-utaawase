@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sanke-sanban-utaawase",
  "yomi": "さんけさんばんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三題各三番）",
+  "era": "未詳",
+  "author": "未詳",
+  "desc": "梅・池柳・帰雁の三題を、それぞれ三番に番えた小さな歌合。作者の名は記されない。奥書に、大納言忠家の真蹟から写したとある。"
+ },
  "editions": [
   {
    "pid": "1879502",
